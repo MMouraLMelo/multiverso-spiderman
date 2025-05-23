@@ -5,6 +5,6 @@
 ## Exibição do site
 
 <video autoplay loop muted>
-    <source src="exibicao-site.wfp" type="">
+    <source src="exibicao-site.mp4" type="mp4">
 </video>
 

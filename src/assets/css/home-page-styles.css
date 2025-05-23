@@ -1,5 +1,5 @@
-@import url('/src/assets/css/reset.css');
-@import url('/src/assets/css/global.css');
+@import url('./reset.css');
+@import url('./global.css');
 
 body {
     background-color: var(--primary-color);
